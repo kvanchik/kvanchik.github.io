@@ -1,5 +1,9 @@
 # kvanchik.github.io
 
+  
+
+<link rel="stylesheet" href="./css/style.css">
+
 
 ![3456786543](https://user-images.githubusercontent.com/114712988/206613501-8cb93d36-1525-400e-8264-dc8971928d88.jpg)
 
@@ -86,9 +90,7 @@
   
   
   
-  
 
-<link rel="stylesheet" href="./css/style.css">
 
 
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/aef4a685-07f1-4aca-8426-a6b759b1b578" id="JQz-Qx0qW6ZH"></iframe></div>
