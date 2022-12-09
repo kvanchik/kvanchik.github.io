@@ -1,6 +1,7 @@
 # kvanchik.github.io
 
-![1432](https://user-images.githubusercontent.com/114712988/206611076-2273918f-fddb-4ccb-9f3c-f122ffcb78bc.jpg)
+
+![254545646](https://user-images.githubusercontent.com/114712988/206612280-a7ce048b-285a-4f01-83ca-fa70709389a1.png)
 
 
 
