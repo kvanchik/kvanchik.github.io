@@ -1,18 +1,20 @@
 # kvanchik.github.io
 
-  
-
 <link rel="stylesheet" href="./css/style.css">
 
 
 ![3456786543](https://user-images.githubusercontent.com/114712988/206613501-8cb93d36-1525-400e-8264-dc8971928d88.jpg)
 
 
-![34232](https://user-images.githubusercontent.com/114712988/206613881-0883b079-d020-4b9c-b8a2-648f448426a0.jpg)
+
+
 <div class="nav">
+<div>
+<a href="https://portal.tpu.ru/lyceum"><img src="logo.jpg"></a>
+</div>
 
 
-
+<div>
 <!--Dayspedia.com widget--><div class="DPDC" cityid="5720" lang="ru" id="dayspedia_widget_6080ca80a6dfd255" host="https://dayspedia.com" ampm="false" nightsign="true" sun="false" style="background-image: url(&quot;https://cdn.dayspedia.com/img/widgets/bg-4.png&quot;);">
 
 	<style media="screen" id="dayspedia_widget_6080ca80a6dfd255_style">
@@ -86,7 +88,7 @@
 	</script>
 	<!--/DPDC-->
 	</div><!--Dayspedia.com widget ENDS-->
-  
+  <div>
   
   
   
