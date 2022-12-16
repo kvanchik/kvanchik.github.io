@@ -18,7 +18,7 @@
 </div>
 
 <div>
-!--Dayspedia.com widget--><div class="DPDC" cityid="5942" lang="ru" id="dayspedia_widget_3a13237a08231958" host="https://dayspedia.com" ampm="false" nightsign="true" sun="false" style="background-image: url(&quot;https://cdn.dayspedia.com/img/widgets/bg-7.png&quot;);">
+<div class="DPDC" cityid="5942" lang="ru" id="dayspedia_widget_3a13237a08231958" host="https://dayspedia.com" ampm="false" nightsign="true" sun="false" style="background-image: url(&quot;https://cdn.dayspedia.com/img/widgets/bg-7.png&quot;);">
 
 	<style media="screen" id="dayspedia_widget_3a13237a08231958_style">
 				/*COMMON*/
