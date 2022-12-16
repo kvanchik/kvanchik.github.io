@@ -17,7 +17,6 @@
 <a href="https://portal.tpu.ru/lyceum"><img src="logo.jpg"></a>
 </div>
 
-
 <div>
 <!--Dayspedia.com widget--><div class="DPDC" cityid="5720" lang="ru" id="dayspedia_widget_6080ca80a6dfd255" host="https://dayspedia.com" ampm="false" nightsign="true" sun="false" style="background-image: url(&quot;https://cdn.dayspedia.com/img/widgets/bg-4.png&quot;);">
 
@@ -93,7 +92,7 @@
 	<!--/DPDC-->
 	</div><!--Dayspedia.com widget ENDS-->
 </div>
-  
+</div>
   
   
 
