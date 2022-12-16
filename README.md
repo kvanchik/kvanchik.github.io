@@ -2,10 +2,7 @@
 ![3456786543](https://user-images.githubusercontent.com/114712988/206613501-8cb93d36-1525-400e-8264-dc8971928d88.jpg)
 
 
-
 <link rel="stylesheet" href="./css/style.css">
-
-
 
 
 <style>
@@ -96,6 +93,8 @@
 	<!--/DPDC-->
 	</div><!--Dayspedia.com widget ENDS-->
 <div> 
+
+
 </div>
   
   
